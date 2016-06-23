@@ -1,0 +1,9 @@
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\bin\Debug\Consulta_CEP.exe.config
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\bin\Debug\Consulta_CEP.exe
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\bin\Debug\Consulta_CEP.pdb
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\obj\Debug\Consulta_CEP.csprojResolveAssemblyReference.cache
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\obj\Debug\Consulta_CEP.Properties.Resources.resources
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\obj\Debug\Consulta_CEP.csproj.GenerateResource.Cache
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\obj\Debug\Consulta_CEP.exe
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\obj\Debug\Consulta_CEP.pdb
+c:\users\anderson\documents\visual studio 2015\Projects\ConsultarCEP\Consulta_CEP\Consulta_CEP\obj\Debug\Consulta_CEP.ConsultaCEP.resources
